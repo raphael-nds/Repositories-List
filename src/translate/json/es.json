@@ -1,0 +1,20 @@
+{
+   "repositories":"Repositorios",
+   "contact":"Contacto",
+   "about":"Sobre",
+   "url":"URL: ",
+   "created":"Creado: ",
+   "updated":"Actualizado: ",
+   "createdBy":"Creado por Raphael Nunes",
+   "search":"Pesquisar",
+   "noRepositoryFound":"No se encontró ningún repositorio",
+   "name":"Nombre",
+   "lastUpdate":"Última actualización",
+   "noResultsFound":"Ningún resultado encontrado",
+   "initialPageNotAuthenticated":"Página inicial no autenticada",
+   "signInWithGitHub":"Iniciar sesión con GitHub",
+   "signOut":"Desconectar",
+   "welcome":"Bienvenido, {{value}}",
+   "myRepositories":"Mis repositorios, otras funciones después de la autenticación",
+   "helloWord":"Hello word - ES"
+}
