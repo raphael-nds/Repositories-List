@@ -1,13 +1,5 @@
 <h1 align="center">DESAFIO</h1>
-<h1 align="center">
-    <img src="assets/images/print.png">
-</h1>
 
-## Demo:
-
-[Demonstração da aplicação - publicada na Vercel](https://desafiostone.vercel.app/)
-
----
 
 ## 🚀 Tecnologias utilizadas:
 
@@ -33,9 +25,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/raphael-nds/DesafioStone.git
+    $ git clone git@github.com:raphael-nds/Repositories-List.git
     # Entrar no diretório
-    $ cd DesafioStone
+    $ cd Repositories-List
     # Instalar as dependências
     $ yarn install
     # Iniciar o projeto
@@ -48,4 +40,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-Desenvolvido 💜 por Raphael Nunes# Repositories-List
+Desenvolvido 💜 por Raphael Nunes
