@@ -23,6 +23,11 @@ export const Wrapper = styled.main`
       margin: auto;
      
    `};
+
+   :hover {
+      transition: 0.3s all ease-out;
+      transform: scale(1.1, 1.1);
+   }
 `
 
 export const Card = styled.div`
@@ -44,9 +49,16 @@ export const Card = styled.div`
          font-size: ${size.xsmall};
          // color: ${colors.main.main};
          margin-top: -10px;
-      }
-   }
 
-   > footer {
+         :hover {
+            transition: 0.1s all ease-out;
+            transform: scale(1.1, 1.1);
+
+            border-bottom: 1px solid ${colors.personalization.purple};
+            color: ${colors.personalization.purple};
+
+            text-decoration: none;
+         }
+      }
    }
 `
